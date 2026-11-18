@@ -1,0 +1,22 @@
+{
+  "password_reset": {
+    "keywords": ["password", "login", "can't login", "locked out", "account"],
+    "solution": "1. Go to System Settings > Users & Groups. 2. Click on the user account. 3. Click 'Reset Password'. 4. If locked out of Mac, restart holding Cmd+R to enter Recovery Mode and reset from there. 5. For network accounts, reset via Active Directory or contact senior IT."
+  },
+  "printer": {
+    "keywords": ["printer", "print", "offline", "printing"],
+    "solution": "1. Check printer is powered on and connected to network. 2. On Mac: System Settings > Printers & Scanners > Delete printer and re-add. 3. Check paper and ink levels. 4. Restart print spooler if Windows. 5. Check Jamf Pro for printer policy deployment."
+  },
+  "new_starter": {
+    "keywords": ["new", "starting", "onboarding", "setup", "new employee", "new teacher"],
+    "solution": "1. Confirm start date and department with HR. 2. Create user account in Active Directory/Azure AD. 3. Enrol device in Jamf Pro. 4. Install required software via Jamf policy. 5. Send welcome email with credentials and IT guide."
+  },
+  "video_conferencing": {
+    "keywords": ["zoom", "teams", "meet", "video", "call", "meeting", "camera", "microphone"],
+    "solution": "1. Check internet connection. 2. Quit and restart Zoom/Teams. 3. Check camera and microphone permissions: System Settings > Privacy & Security. 4. Update Zoom/Teams to latest version. 5. If persists, reinstall application."
+  },
+  "network": {
+    "keywords": ["wifi", "internet", "network", "connection", "connected", "slow"],
+    "solution": "1. Restart WiFi: turn off and on in menu bar. 2. Forget network and reconnect. 3. Check if issue is device-specific or affects others. 4. Restart network adapter. 5. Contact network team if building-wide issue."
+  }
+}

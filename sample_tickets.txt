@@ -1,0 +1,25 @@
+TICKET 1
+From: john.smith@school.com
+Subject: Can't login to my Mac
+Message: Hi, I've been trying to log into my MacBook since this morning but it keeps saying my password is incorrect. I haven't changed anything. Can you help?
+
+---
+
+TICKET 2
+From: sarah.jones@school.com
+Subject: Printer not working
+Message: The printer on the 2nd floor is showing offline. I need to print exam papers urgently for tomorrow morning.
+
+---
+
+TICKET 3
+From: mike.brown@school.com
+Subject: New laptop setup
+Message: I'm a new teacher starting next Monday. I was told IT would set up my laptop. What do I need to do?
+
+---
+
+TICKET 4
+From: emma.wilson@school.com
+Subject: Zoom not connecting
+Message: I have a parent meeting in 10 minutes and Zoom keeps crashing. Running macOS on a MacBook Pro.
